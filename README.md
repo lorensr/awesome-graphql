@@ -56,6 +56,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Blogs](#blogs)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
+- [Books](#books)
+- [Tutorials](#tutorials)
 
 <!-- /MarkdownTOC -->
 
@@ -659,6 +661,14 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [“Client-side only” realtime web applications with Firebase, GraphQL and apollo-client 2.0](https://medium.com/@pierrecriulanscy/client-side-only-realtime-web-applications-with-firebase-graphql-and-apollo-client-2-0-9606160f7cf8)
 
 <a name="workshopper" />
+
+## Books
+
+* [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
+* [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) by Eve Porcello and Alex Banks
+* [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
+* [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 
 ## Tutorials
 
